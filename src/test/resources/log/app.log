@@ -1,0 +1,6 @@
+03 Jan 2021 21:42:32,494 myLogger TRACE: This is trace log
+03 Jan 2021 21:42:32,497 myLogger DEBUG: This is debug log
+03 Jan 2021 21:42:32,497 myLogger INFO : This is info log
+03 Jan 2021 21:42:32,498 myLogger WARN : This is warn log
+03 Jan 2021 21:42:32,498 myLogger ERROR: This is error log
+03 Jan 2021 21:42:32,498 myLogger FATAL: This is fatal log
